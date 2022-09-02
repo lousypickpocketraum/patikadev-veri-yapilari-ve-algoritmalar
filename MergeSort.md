@@ -1,3 +1,6 @@
+# MergeSortProjesi
+[patika](https://app.patika.dev/lousypickpocketraum)
+
 1) Merge Sort türüne göre aşamalar
 [16,21,11,8,12,22]
 
