@@ -1,19 +1,19 @@
 # BinarySearchTree projesi
 [patika](https://app.patika.dev/lousypickpocketraum)
 
-*[7,5,1,8,3,6,0,9,4,2] -> Binary Search Tree Projesi Cevapları*
+[7,5,1,8,3,6,0,9,4,2] -> Binary Search Tree Projesi Cevapları
 
-*1* root 7' dir
+root 7' dir
 
 7
 
-*1* 5 sayısı 7 sayısından küçük olduğundan soluna eklenir
+5 sayısı 7 sayısından küçük olduğundan soluna eklenir
 
     7
   /
 5
 
-*2* 1 sayısı hem 7 den hem de 5 ten küçük olduğundan 5'in soluna eklenir
+1 sayısı hem 7 den hem de 5 ten küçük olduğundan 5'in soluna eklenir
 
         7
       /
@@ -21,7 +21,7 @@
   /
 1
 
-*3* 8 sayısı yediden büyük olduğundan 7'nin sağına eklenir
+8 sayısı yediden büyük olduğundan 7'nin sağına eklenir
 
         7
       /   \
@@ -29,7 +29,7 @@
   /   
 1      
 
-*4* 3 sayısı hem 7 den hem de 5 ten küçük ama 1 den büyük olduğundan 1 sayısının sağına eklenir
+3 sayısı hem 7 den hem de 5 ten küçük ama 1 den büyük olduğundan 1 sayısının sağına eklenir
 
         7
       /   \
@@ -39,7 +39,7 @@
   \
     3
   
-*5* 6 sayısı 7 den küçük 5 ten büyük olduğundan 5 sayısının sağına eklenir
+6 sayısı 7 den küçük 5 ten büyük olduğundan 5 sayısının sağına eklenir
     
         7
       /   \
@@ -49,7 +49,7 @@
   \
     3
 
-*6* 0 sayısı 7,5 ve 1 den küçük olduğundan 1 sayısının soluna eklenir
+0 sayısı 7,5 ve 1 den küçük olduğundan 1 sayısının soluna eklenir
 
             7
           /   \
@@ -59,7 +59,7 @@
   /   \
 0       3
 
-*7* 9 sayısı hem 7 den hem de 8 den büyük olduğundan 8 sayısının sağına eklenir
+9 sayısı hem 7 den hem de 8 den büyük olduğundan 8 sayısının sağına eklenir
 
             7
           /   \
