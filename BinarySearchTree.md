@@ -8,13 +8,11 @@ root 7' dir
 7
 
 5 sayısı 7 sayısından küçük olduğundan soluna eklenir
-
     7
   /
 5
 
 1 sayısı hem 7 den hem de 5 ten küçük olduğundan 5'in soluna eklenir
-
         7
       /
     5
@@ -22,7 +20,6 @@ root 7' dir
 1
 
 8 sayısı yediden büyük olduğundan 7'nin sağına eklenir
-
         7
       /   \
     5       8
@@ -30,7 +27,6 @@ root 7' dir
 1      
 
 3 sayısı hem 7 den hem de 5 ten küçük ama 1 den büyük olduğundan 1 sayısının sağına eklenir
-
         7
       /   \
     5       8
@@ -40,7 +36,6 @@ root 7' dir
     3
   
 6 sayısı 7 den küçük 5 ten büyük olduğundan 5 sayısının sağına eklenir
-    
         7
       /   \
     5       8
